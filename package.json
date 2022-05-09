@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test":"jest"
+    "test": "jest"
   },
   "keywords": [
     "project"
   ],
   "author": "Hanny Carballo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
